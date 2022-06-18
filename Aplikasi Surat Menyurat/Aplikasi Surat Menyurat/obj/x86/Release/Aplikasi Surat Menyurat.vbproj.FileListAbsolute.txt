@@ -1,0 +1,20 @@
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\bin\Release\Aplikasi Surat Menyurat.exe.manifest
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\bin\Release\Aplikasi Surat Menyurat.application
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\bin\Release\Aplikasi Surat Menyurat.exe
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\bin\Release\Aplikasi Surat Menyurat.pdb
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\bin\Release\Aplikasi Surat Menyurat.xml
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi Surat Menyurat.vbproj.ResolveComReference.cache
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.FRDafNIK.resources
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.FRDashboard.resources
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.FRDomisili.resources
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.Resources.resources
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.FRRegSur.resources
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.FRSKTM.resources
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi Surat Menyurat.vbproj.GenerateResource.Cache
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi Surat Menyurat.exe.manifest
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi Surat Menyurat.application
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi Surat Menyurat.exe
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi Surat Menyurat.xml
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi Surat Menyurat.pdb
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.FRAwal.resources
+C:\Users\Taopiq Hidayat\Documents\Visual Studio 2010\Projects\Aplikasi Surat Menyurat\Aplikasi Surat Menyurat\obj\x86\Release\Aplikasi_Surat_Menyurat.FRLogin.resources
